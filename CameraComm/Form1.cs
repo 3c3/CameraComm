@@ -103,7 +103,7 @@ namespace CameraComm
 
         private void button5_Click(object sender, EventArgs e)
         {
-            label3.Text = buffer.Size.ToString();
+            //label3.Text = buffer.Size.ToString();
         }
 
         private void button3_Click(object sender, EventArgs e)
